@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF00bfff</color>
+    <color name="purple_500">#FF00bfff</color>
+    <color name="purple_700">#FF00bfff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#ffff0000</color>
+
+    <color name="color_taobao_selected_title">#fffc5531</color>
+    <color name="color_taobao_selected_desc">#ff111111</color>
+    <color name="color_taobao_normal">#ff999999</color>
+
+    <color name="color_jingdong_selected_title">#ff111111</color>
+    <color name="color_jingdong_selected_desc">#ff1f1f1f</color>
+    <color name="color_jingdong_normal">#ff999999</color>
+    <color name="color_jingdong_phone">#ff005fff</color>
+    <color name="color_jingdong_date">#ff666666</color>
+    <color name="color_mine_selected_title">#ffff4500</color>
+    <color name="color_mine_selected_desc">#ff333333</color>
+    <color name="color_mine_normal">#ff999999</color>
+
+    <color name="main_btn_txt">#ffffffff</color>
+    <color name="main_btn_bg">#ff00bfff</color>
+
+</resources>

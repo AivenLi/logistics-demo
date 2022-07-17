@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    >
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="已签收"
+        android:textSize="@dimen/text_title"
+        android:textColor="@color/color_taobao_selected_title"
+        android:textStyle="bold"
+        />
+    <TextView
+        android:id="@+id/tv_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="巴拉巴拉巴拉巴拉"
+        android:textSize="@dimen/text_desc"
+        android:textColor="@color/color_taobao_selected_desc"
+        android:layout_marginTop="6dp"
+        />
+</LinearLayout>
